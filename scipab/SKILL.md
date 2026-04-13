@@ -7,7 +7,7 @@ description: Structure a data dump, situation report, or problem description int
 
 Takes a messy data dump — logs, git state, bug reports, findings, debates — and rewrites it as a clean **SCIPAB** brief so the reader can jump straight to the decision.
 
-SCIPAB is Mandel Communications' executive messaging framework (see https://www.mandel.com/scipab-messaging-tool). This variant adds **Risk** as a 7th section to make the downside of the proposed action explicit.
+SCIPAB® is an executive messaging framework developed by [Mandel Communications](https://www.mandel.com/scipab-messaging-tool). This skill is an independent, unofficial implementation that references the framework by name; it is not affiliated with or endorsed by Mandel. This variant adds **Risk** as a 7th section to make the downside of the proposed action explicit.
 
 ## When to use
 

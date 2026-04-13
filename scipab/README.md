@@ -2,7 +2,9 @@
 
 Structure a messy data dump into a **SCIPAB** decision brief — Situation, Complication, Implication, Position, Action, Benefit, Risk.
 
-Based on [Mandel Communications' SCIPAB framework](https://www.mandel.com/scipab-messaging-tool), with **Risk** added as a 7th section so the downside of the proposed action is always explicit.
+Based on the [SCIPAB® framework by Mandel Communications](https://www.mandel.com/scipab-messaging-tool), with **Risk** added as a 7th section so the downside of the proposed action is always explicit.
+
+> **Attribution.** SCIPAB® is a framework developed by Mandel Communications. This skill is an independent, unofficial implementation that references the framework by name. It is not affiliated with, sponsored by, or endorsed by Mandel Communications. The MIT license covers only the original prose, prompt instructions, and examples in this folder — not the underlying framework, which remains the intellectual property of its owners.
 
 ## When it triggers
 
