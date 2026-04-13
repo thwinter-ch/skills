@@ -24,7 +24,7 @@ Windows users: use `mklink /D` instead of `ln -s`, or just copy the folder.
 
 | Skill | What it does |
 |---|---|
-| _coming soon_ | _coming soon_ |
+| [`scipab`](./scipab) | Structures a data dump into a 7-part SCIPAB decision brief (Situation → Risk) so the reader can jump straight to the decision. |
 
 ## How skills work
 
