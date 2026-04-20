@@ -7,7 +7,7 @@ description: Structure a data dump, situation report, or problem description int
 
 Takes a messy data dump — logs, git state, bug reports, findings, debates — and rewrites it as a clean **SCIPAB** brief so the reader can jump straight to the decision.
 
-SCIPAB® is an executive messaging framework developed by [Mandel Communications](https://www.mandel.com/scipab-messaging-tool). This skill is an independent, unofficial implementation that references the framework by name; it is not affiliated with or endorsed by Mandel. This variant adds **Risk** as a 7th section to make the downside of the proposed action explicit.
+SCIPAB is Mandel Communications' executive messaging framework (see https://www.mandel.com/scipab-messaging-tool). This variant adds **Risk** as a 7th section to make the downside of the proposed action explicit.
 
 ## When to use
 
@@ -117,7 +117,7 @@ Green light to run `git clean -fd tw-brain/raw/`?
 ```markdown
 ## Should we merge the experimental branch before the release freeze?
 
-**Situation.** Release freeze starts Thursday 2026-03-05. Experimental branch `feature/new-ingest` has 23 commits, passes CI, peer-reviewed.
+**Situation.** Release freeze starts Thursday 2026-03-05. Experimental branch `feature/new-ingest` has 23 commits, passes CI, was reviewed by Andri.
 
 **Complication.** Two of the 23 commits touch the payment reconciliation path, which is outside the original scope of the feature. No dedicated QA on that path.
 
